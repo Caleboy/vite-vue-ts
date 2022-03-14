@@ -1,9 +1,9 @@
 module.exports = {
   tabWidth: 2,
-  jsxSingleQuote: true,
+  jsxSingleQuote: false,
   jsxBracketSameLine: true,
   printWidth: 100,
-  singleQuote: true,
+  singleQuote: false,
   semi: false,
   overrides: [
     {
